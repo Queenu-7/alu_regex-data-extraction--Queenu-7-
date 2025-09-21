@@ -1,0 +1,28 @@
+Invalid Emails:
+userss@.com
+@Eexample.com
+use@@example.com
+
+Valid URLs:
+https://example.com
+http://sub.example.org/path
+
+Invalid URLs:
+htps://wrong.com
+www.missing-protocol.com
+
+Edge Case Phone numbers:
+1234567890    
+123 456 7890
++1 (123) 456-7890
+
+Invalid Credit Cards:
+1234 567 890 1234
+1234567890123456
+
+Mixed content:
+Email: test.email+alias@gmail.com
+Website: https://example.com?query=string
+Phone: (123)4567890
+Credit Card: 0000-0000-0000-0000
+
